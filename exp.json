@@ -1,0 +1,20 @@
+{
+    "aircraft": {
+        "tailnumber": "N1234",
+        "type":"E550"
+    },
+
+    "schedule":{
+        "depTime":"XXXXZ",
+        "depDate":"",
+        "depAirport":"",
+        "arrAirport":""
+    },
+
+    "fuelload":{
+        "departure":30000
+    },
+
+    "payload":300
+
+}
